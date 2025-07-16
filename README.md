@@ -10,11 +10,7 @@ The model learns to approximate the relationship given by the quantum mechanical
 
   
 
-$$
-
-E_n = \frac{n^2 h^2}{8mL^2}
-
-$$
+$E_n = \frac{n^2 h^2}{8mL^2}$
 
   
 
