@@ -64,4 +64,4 @@ for i in range(1, 50001):
 
 df = pd.DataFrame(data)
 
-df.to_csv('data/Energy-Level-data-n_squared.csv', index=False)
+df.to_csv('data/Energy-Level-data.csv', index=False)
